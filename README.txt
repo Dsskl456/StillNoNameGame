@@ -1,7 +1,3 @@
-Game location
-dist->[game]pygame->[game]pygame.exe
-
-
 Controls
 A, LEFT -left
 D, RIGHT -right
